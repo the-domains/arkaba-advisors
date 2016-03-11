@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Arkaba Advisors]]></title>
         <description><![CDATA[Arkaba Advisors]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arkaba-advisors/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 06:17:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 02:08:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arkaba-advisors/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined9200c772-0e74-45cd-8ed2-3df9c25cb40e/index.html</link>
+            <description><![CDATA[<p>Having been involved in the alternative investment management advisory business for years, the founders of Arkaba would like to share that knowledge as widely as possible. </p>]]></description>
+            <link>https://thegrid.ai/arkaba-advisors/9200c772-0e74-45cd-8ed2-3df9c25cb40e/index.html</link>
             <guid isPermaLink="false">9200c772-0e74-45cd-8ed2-3df9c25cb40e</guid>
-            <pubDate>Thu, 10 Mar 2016 06:17:40 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 02:08:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
